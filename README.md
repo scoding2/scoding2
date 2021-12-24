@@ -4,7 +4,7 @@
 
 - 💎Checkout my favorite project [Kickstarter Success](https://github.com/scoding2/Kickstarter_Success)
 
-- ⚡Currently working on amazing stuff **.**
+- ⚡Currently working on amazing stuff 
 
 
 <p align="left">
